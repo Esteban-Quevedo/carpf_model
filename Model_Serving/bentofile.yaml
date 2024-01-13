@@ -1,0 +1,17 @@
+# bentofile.yaml: Configuration file for BentoML service
+
+# Define the service and include relevant files
+service: 'service:svc'
+include:
+  - '*.py'
+
+# Specify required Python packages
+python:
+  packages:
+    - scikit-learn
+    - pandas
+    - pydantic
+
+# Specify BentoML models and versions
+models:
+  - car_power_factor_model:latest
