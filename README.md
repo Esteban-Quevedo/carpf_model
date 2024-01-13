@@ -40,7 +40,7 @@ Here you will find 4 files required for the lab execution and model serving:
 ## Documentation
 
 - Official
-  Documentation: [Document Page](https://eqpsolutions.com/blog/data-projects-documentation-3/car-power-factor-prediction-deployment-with-bentoml-3)
+  Documentation: [Document Page](https://eqpsolutions.com/blog/data-projects-3/car-power-factor-prediction-deployment-with-bentoml-3)
 
 ## Contacts
 
