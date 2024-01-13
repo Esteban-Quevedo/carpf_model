@@ -42,7 +42,7 @@ Here you will find 4 files required for the lab execution and model serving:
 - Official
   Documentation: [Document Page](https://eqpsolutions.com/blog/data-projects-3/car-power-factor-prediction-deployment-with-bentoml-3)
 
-## Contacts
+## Contact
 
 - Website: [Form Link](https://eqpsolutions.com/contactus)
 - E-mail: [info@eqpsolutions.com](mailto:info@eqpsolutions.com)
