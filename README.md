@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project aims to create a machine learning model called Car Power and make predictions on the power factor
+This project aims to create a machine learning model called Car Power Factor and make predictions on the power factor
 using [BentoML](https://docs.bentoml.com/en/latest/ "BentoML Documentation") (“a framework for building reliable,
 scalable and cost-efficient AI applications.”) and a free dataset
 called [car_dataset](https://www.kaggle.com/datasets/willstr/car-salescsv "Dataset Source").
@@ -38,9 +38,12 @@ Here you will find 4 files required for the lab execution and model serving:
 [Go to Model Serving](https://github.com/Esteban-Quevedo/carpf_model/tree/main/Model_Serving)
 
 ## Documentation
-- Official Documentation: [Document Page](https://eqpsolutions.com/blog/odoo-modules-documentation-1/product-certificates-module-1)
+
+- Official
+  Documentation: [Document Page](https://eqpsolutions.com/blog/data-projects-documentation-3/car-power-factor-prediction-deployment-with-bentoml-3)
 
 ## Contacts
+
 - Website: [Form Link](https://eqpsolutions.com/contactus)
 - E-mail: [info@eqpsolutions.com](mailto:info@eqpsolutions.com)
 
