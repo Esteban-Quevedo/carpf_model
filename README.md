@@ -45,5 +45,5 @@ Here you will find 4 files required for the lab execution and model serving:
 ## Contact
 
 - Website: [Form Link](https://eqpsolutions.com/contactus)
-- E-mail: [info@eqpsolutions.com](mailto:info@eqpsolutions.com)
+- E-mail: [esteban.quevedo@eqpsolutions.com](mailto:esteban.quevedo@eqpsolutions.com)
 
